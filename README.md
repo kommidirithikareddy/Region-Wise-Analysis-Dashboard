@@ -23,6 +23,6 @@ Count of Hiring IDs by Hiring Mode: Illustrates the effectiveness of various hir
 
 Sum of Hiring Cost by Month and Year: Visualizes hiring costs over the months, highlighting trends and seasonality in hiring.
 
-#Screenshot
+# Dashboard
 <img width="763" alt="Region-Wise-Analysis-Dashboard" src="https://github.com/user-attachments/assets/dca0f8c6-e48a-4185-b703-8b00d040a071">
 

@@ -26,3 +26,11 @@ Sum of Hiring Cost by Month and Year: Visualizes hiring costs over the months, h
 # Dashboard
 <img width="763" alt="Region-Wise-Analysis-Dashboard" src="https://github.com/user-attachments/assets/dca0f8c6-e48a-4185-b703-8b00d040a071">
 
+
+# Reports
+
+<img width="762" alt="image" src="https://github.com/user-attachments/assets/b5ebb4a0-5b8d-4774-817d-5244f46c4bc1">
+<img width="766" alt="region-dashboard-2021" src="https://github.com/user-attachments/assets/da44a1f8-1d71-44a6-b3f7-4c6b59de31cf">
+<img width="766" alt="region-dashboard-2021" src="https://github.com/user-attachments/assets/75fa78fa-305a-4279-8d7a-793441fd871d">
+
+

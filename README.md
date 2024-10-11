@@ -6,13 +6,21 @@ The Region-Wise Analysis Dashboard visualizes key hiring metrics and insights ac
 # KPIs
 
 Average Hiring Cost: $599.53
+
 Average CTC: $65.14K
+
 Total Count of Hiring IDs: 261
+
 Goal: 250 (achieving a +4.4% increase!)
+
 Hiring Costs by Job Title: Breakdown of costs associated with various job titles.
-Charts
+
+# Charts
+
 Sum of Hiring Cost by Job Title: Displays the total hiring costs categorized by job titles, including HR Executive, Sales Executive, Finance Executive, and more.
+
 Count of Hiring IDs by Hiring Mode: Illustrates the effectiveness of various hiring channels such as Employee Referral, Social Networks, and Search Engine.
+
 Sum of Hiring Cost by Month and Year: Visualizes hiring costs over the months, highlighting trends and seasonality in hiring.
 
 #Screenshot

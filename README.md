@@ -4,6 +4,7 @@
 The Region-Wise Analysis Dashboard visualizes key hiring metrics and insights across different regions, enabling organizations to make informed hiring decisions and optimize their recruitment strategies.
 
 # KPIs
+
 Average Hiring Cost: $599.53
 Average CTC: $65.14K
 Total Count of Hiring IDs: 261
